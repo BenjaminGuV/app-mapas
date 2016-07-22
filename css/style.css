@@ -1,0 +1,18 @@
+.panel-head{
+    position: absolute;
+    top: 24%;
+    width: 100%;
+    text-align: center;
+}
+
+.margen{
+	margin: 5px 0px;
+}
+
+.fondo-temp{
+	background-repeat: none;
+}
+
+.sebm-google-map-container {
+	height: 300px;
+}
